@@ -14,6 +14,10 @@ Aquí un video del uso de la app :
 
 
 
+https://github.com/Raven096/Conversor/assets/157759476/aa740b35-d2b8-4226-8a7b-af49e01e324b
+
+
+
 Funcionalidades
 
 Conexión a la API de Exchange Rate API para obtener las tasas de cambio actualizadas.
