@@ -15,12 +15,12 @@ public class Pricipal {
         Scanner sc = new Scanner(System.in);
         int opcion;
         System.out.println();
-        System.out.println(" \nBienvenido/a al conversor de monedas UwU ");
-        System.out.println(" Admitimos las 161 monedas mundiales, Estos cubren el 99% de todos los territorios reconocidos por la ONU ");
+        System.out.println(" \Bienvenido/ al conversor de monedas UwU ");
+        System.out.println(" Admitimos las 161 monedas mas usadas del mundo ");
         System.out.println("------------------------------------------------------");
         do {            
             System.out.println("\n\t\tMenú de opciones:");
-            System.out.println("1. Lista de codigos monetarios y paises adminitidos");
+            System.out.println("1. Lista de codigos monetarios y paises admitidos");
             System.out.println("2. Conversor Monedas");
             System.out.println("3. Mostrar Lista conversiones realizadas");
             System.out.println("4. Salir\n");
@@ -46,7 +46,7 @@ public class Pricipal {
                      nuv.mostrarLista();
                      break;
                  case 4:
-                     System.out.println(" Gracias por usar nuestro servicio\n "
+                     System.out.println(" Gracias por usar nuestra aplicación UwU\n "
                              + "Ten un buen dia !!!");
                       break;
                 default:
