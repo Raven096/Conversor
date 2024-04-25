@@ -15,12 +15,12 @@ public class Pricipal {
         Scanner sc = new Scanner(System.in);
         int opcion;
         System.out.println();
-        System.out.println(" \nBienvenido/a al conversor de monedas o_O ¡¡ ");
-        System.out.println(" Admitimos las 161 monedas mundiales que circulan habitualmente, Estos cubren el 99% de todos los estados y territorios reconocidos por la ONU.");
+        System.out.println(" \nBienvenido/a al conversor de monedas UwU ");
+        System.out.println(" Admitimos las 161 monedas mundiales, Estos cubren el 99% de todos los territorios reconocidos por la ONU ");
         System.out.println("------------------------------------------------------");
         do {            
             System.out.println("\n\t\tMenú de opciones:");
-            System.out.println("1. Lista de codigos y paises adminitidos");
+            System.out.println("1. Lista de codigos monetarios y paises adminitidos");
             System.out.println("2. Conversor Monedas");
             System.out.println("3. Mostrar Lista conversiones realizadas");
             System.out.println("4. Salir\n");
@@ -33,9 +33,9 @@ public class Pricipal {
                     break;
                  case 2:
                         System.out.println("\nConversor de monedas.. ");
-                        System.out.print("Ingresa el codigo del pais DE :..  ");
+                        System.out.print("Ingresa el codigo del pais DE : ...  ");
                         String codigoDe = sc.next();
-                        System.out.print("Ingresa el codigo del pais A :..  ");
+                        System.out.print("Ingresa el codigo del pais A : ...  ");
                         String codigoA = sc.next();
                         System.out.print("Monto : $ ");
                         double monto = sc.nextDouble();
@@ -47,7 +47,7 @@ public class Pricipal {
                      break;
                  case 4:
                      System.out.println(" Gracias por usar nuestro servicio\n "
-                             + "Have a nice day!!!");
+                             + "Ten un buen dia !!!");
                       break;
                 default:
                     System.out.println(" La opcion ingresada es incorrecta");
