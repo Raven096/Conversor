@@ -10,9 +10,9 @@ Diagrama UML de clases para visualizar la estructura del proyecto.
 
 Diagrama UML de Clases
 
-Aquí se muestra un diagrama UML de clases que representa la estructura del proyecto:
+Aquí un video del uso de la app :
 
-![Diagram 2024-04-24 17-21-09](https://github.com/AnndyCep/ReteApi-Divisas/assets/92260109/e0ae2d63-e1a0-4b78-b742-bf1210b320e0)
+
 
 Funcionalidades
 
